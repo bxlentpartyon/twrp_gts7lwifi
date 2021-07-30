@@ -21,9 +21,9 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := omni_gts7xl
-PRODUCT_DEVICE := gts7xl
-PRODUCT_MODEL := SM-T976B
+PRODUCT_NAME := omni_gts7lwifi
+PRODUCT_DEVICE := gts7lwifi
+PRODUCT_MODEL := SM-T870
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung

@@ -1,3 +1,3 @@
-# Samsung Galaxy Tab S7+ 5G device tree for TWRP
+# Samsung Galaxy Tab S7 device tree for TWRP
 
-twrp_android_device_samsung_gts7xl
+twrp_android_device_samsung_gts7lwifi

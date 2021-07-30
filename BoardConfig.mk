@@ -12,7 +12,7 @@
 #
 PLATFORM_VERSION := 11
 
-DEVICE_PATH := device/samsung/gts7xl
+DEVICE_PATH := device/samsung/gts7lwifi
 
 # Architecture
 TARGET_ARCH := arm64
@@ -55,11 +55,11 @@ TARGET_BOARD_PLATFORM_GPU := qcom-adreno650
 QCOM_BOARD_PLATFORMS += kona
 
 # Recovery
-TARGET_OTA_ASSERT_DEVICE := gts7xl
+TARGET_OTA_ASSERT_DEVICE := gts7lwifi
 BOARD_HAS_LARGE_FILESYSTEM := true
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery/root/etc/recovery.fstab
 TARGET_COPY_OUT_VENDOR := vendor
-PLATFORM_SECURITY_PATCH := 2021-01-01
+PLATFORM_SECURITY_PATCH := 2021-03-01
 
 # Portrait orientation:
 #
