@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_gts7lwifi.mk
+	$(LOCAL_DIR)/twrp_gts7lwifi.mk
